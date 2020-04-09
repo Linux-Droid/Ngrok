@@ -9,7 +9,7 @@
 
 - `pkg install wget unzip -y` <- Install Requirements Pakages
 
-- `wget https://github.com/Linux-Droid/Ngrok/blob/master/Ngrok_Linux_Droid.zip` <- Download Ngrok Zip File In Termux
+- `wget https://github.com/Linux-Droid/Ngrok/raw/master/Ngrok_Linux_Droid.zip` <- Download Ngrok Zip File In Termux
 
 - `unzip Ngrok_Linux_Droid.zip && rm -rf Ngrok_Linux_Droid.zip` <- Unzip The Ngrok File
 - `chmod +x ngrok` <- Give Execute Permission 
