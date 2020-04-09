@@ -5,7 +5,7 @@
 - Http and Tcp Both Support.
 
 
-#Installation_Methoed :-
+# Installation_Methoed :-
 
 - `pkg install wget unzip -y` <- Install Requirements Pakages
 
